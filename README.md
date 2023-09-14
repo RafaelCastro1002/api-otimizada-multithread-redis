@@ -13,10 +13,6 @@ Após executar a API, é possível acessar a documentação por meio da url:
 http://localhost:3000/docs
 ```
 
-# Whatsapp clone - React Native
-
-A Clone of the WhatsApp interface using the react-native-ui-lib interface library and styled-components to create styles with writing close to that used on the web. The faker library and the Lorem Picsum API were used to generate random conversations.
-
 ## Otimização da API
 
 Para otimização da api foi feita a paginação do endpoint alvo de testes de carga, também foi utilizado o recurso de multithread do node e foi feito o cache da requisição com o redis.
