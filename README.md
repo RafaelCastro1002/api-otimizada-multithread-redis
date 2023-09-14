@@ -34,3 +34,8 @@ Memória RAM: DDR4 8GB + DDR3 4GB
 SSD: 240GB | 500MB/s leitura e 320MB/s gravação
 
 Obtive resposta com status 200 para todas as requisições feitas no teste de carga.
+
+## Print do teste de carga feito
+
+![Captura de tela de 2023-09-14 18-05-23](https://github.com/RafaelCastro1002/api-otimizada-multithread-redis/assets/38334753/61ff919a-d9f4-4338-b1f5-7812fe784916)
+
